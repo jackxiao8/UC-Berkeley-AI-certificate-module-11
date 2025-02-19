@@ -1,2 +1,2 @@
 # UC-Berkeley-AI-certificate-module-11
-car value analysis
+There are 426880 cars with different models and features. We want to understand what features influence the used car price. the goal is to predict a car's price based on various features such as make, model, mileage, year, condition, location, and other attributes. We will analyze these car values and then give recommendation to a car dealer on what car to buy, and how much they should sell for. We will identify significant predictors, preprocess the data to handle missing values and categorical variables, and develop a predictive model to estimate used car prices.
